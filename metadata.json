@@ -1,0 +1,6 @@
+{
+  "name": "Cook With What You Have",
+  "description": "An AI-powered cooking assistant that helps users create magical meals from ingredients you already have, reducing waste and optimizing budgets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
